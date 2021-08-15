@@ -1,0 +1,16 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.hpcontainer {
+    background-color: white;
+    border-radius: 16px;
+    border: 1px solid black;
+    margin-top: 32px;
+    padding: 16px;
+}
+
+.hpbutton {
+    padding: 4px;
+}

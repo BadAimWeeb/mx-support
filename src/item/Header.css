@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: green;
+    border-bottom: 1px solid black;
+    height: 48px;
+}
+
+.header-item {
+    display: block;
+    color: white;
+    border-left: 1px solid rgba(0, 0, 0, 0.3);
+    border-right: 1px solid rgba(0, 0, 0, 0.3);
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 8px;
+    padding-right: 8px;
+}
